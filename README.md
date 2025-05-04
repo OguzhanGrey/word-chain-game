@@ -1,71 +1,71 @@
 # Word Chain Game 🎮
 
-Word Chain Game, İngilizce kelime bilginizi geliştirmenize yardımcı olan eğlenceli bir kelime oyunudur. Her kelime, bir önceki kelimenin son harfiyle başlamalıdır.
+Word Chain Game is a fun word game that helps you improve your English vocabulary. Each word must start with the last letter of the previous word.
 
-## 🌟 Özellikler
+## 🌟 Features
 
-- 🎯 Kelime zinciri oluşturma
-- ⏱️ Zaman sınırı ile oynama
-- 📊 Puan sistemi
-- 🏆 En yüksek skor takibi
-- 📱 Responsive tasarım
-- 🌙 Koyu tema
-- 🎨 Modern ve şık arayüz
+- 🎯 Word chain creation
+- ⏱️ Time-limited gameplay
+- 📊 Scoring system
+- 🏆 High score tracking
+- 📱 Responsive design
+- 🌙 Dark theme
+- 🎨 Modern and elegant interface
 
-## 🚀 Başlangıç
+## 🚀 Getting Started
 
-### Gereksinimler
+### Prerequisites
 
-- Node.js (v14 veya üzeri)
-- npm veya yarn
+- Node.js (v14 or higher)
+- npm or yarn
 
-### Kurulum
+### Installation
 
-1. Projeyi klonlayın:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/kullaniciadi/word-chain-game.git
 ```
 
-2. Proje dizinine gidin:
+2. Navigate to the project directory:
 
 ```bash
 cd word-chain-game
 ```
 
-3. Bağımlılıkları yükleyin:
+3. Install dependencies:
 
 ```bash
 npm install
-# veya
+# or
 yarn install
 ```
 
-4. Geliştirme sunucusunu başlatın:
+4. Start the development server:
 
 ```bash
 npm run dev
-# veya
+# or
 yarn dev
 ```
 
-## 🎮 Oyun Kuralları
+## 🎮 Game Rules
 
-1. Her kelime, bir önceki kelimenin son harfiyle başlamalıdır
-2. Kelimeler en az 3 harf uzunluğunda olmalıdır
-3. Her kelime sadece bir kez kullanılabilir
-4. Sadece İngilizce kelimeler kabul edilir
-5. Her kelime için 15 saniye süreniz vardır
+1. Each word must start with the last letter of the previous word
+2. Words must be at least 3 letters long
+3. Each word can only be used once
+4. Only English words are accepted
+5. You have 15 seconds for each word
 
-## 🏆 Puanlama Sistemi
+## 🏆 Scoring System
 
-- Her kelime için temel puan: 10
-- Uzun kelimeler için ekstra puan:
-  - 5 harf ve üzeri: +5 puan
-  - 7 harf ve üzeri: +10 puan
-  - 10 harf ve üzeri: +15 puan
+- Base points per word: 10
+- Extra points for long words:
+  - 5 letters or more: +5 points
+  - 7 letters or more: +10 points
+  - 10 letters or more: +15 points
 
-## 🛠️ Teknolojiler
+## 🛠️ Technologies
 
 - React
 - Vite
@@ -74,38 +74,37 @@ yarn dev
 - CSS3
 - Font Awesome
 
-## 📱 Responsive Tasarım
+## 📱 Responsive Design
 
-- Masaüstü
+- Desktop
 - Tablet
-- Mobil cihazlar
+- Mobile devices
 
-## 🎨 Tasarım Özellikleri
+## 🎨 Design Features
 
-- Modern gradient arka planlar
-- Glassmorphism efektleri
-- Yumuşak animasyonlar
-- Kullanıcı dostu arayüz
-- Erişilebilir renk paleti
+- Modern gradient backgrounds
+- Glassmorphism effects
+- Smooth animations
+- User-friendly interface
+- Accessible color palette
 
-## 🤝 Katkıda Bulunma
+## 🤝 Contributing
 
-1. Bu depoyu fork edin
-2. Yeni bir branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add some amazing feature'`)
-4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. Bir Pull Request oluşturun
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
+## 👨‍💻 Developer
 
-## 👨‍💻 Geliştirici
+- **Oğuzhan** - [GitHub Profile](https://github.com/kullaniciadi)
 
-- **Oğuzhan** - [GitHub Profili](https://github.com/kullaniciadi)
+## 🙏 Acknowledgments
 
-## 🙏 Teşekkürler
-
-- Tüm katkıda bulunanlara
-- Test edenlere
-- Geri bildirim verenlere
+- All contributors
+- Testers
+- Feedback providers
 
 ---
 
