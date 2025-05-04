@@ -96,9 +96,6 @@ yarn dev
 4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
 5. Bir Pull Request oluşturun
 
-## 📝 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
 ## 👨‍💻 Geliştirici
 
